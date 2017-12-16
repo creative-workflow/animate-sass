@@ -10,17 +10,17 @@ Add animate-sass to your project using one of the methods below.
 
 **NPM: [https://www.npmjs.com/](https://www.npmjs.com/)**
 ```bash
-$ npm install animate-sass --save-dev
+$ npm install creative-workflow.animate-sass --save-dev
 ```
 
 **Yarn: [https://yarnpkg.com/en/](https://yarnpkg.com/en/)**
 ```bash
-$ yarn add animate-sass --dev
+$ yarn add creative-workflow.animate-sass --dev
 ```
 
 **Bower: [http://bower.io](http://bower.io)**
 ```bash
-$ bower install animate-sass
+$ bower install creative-workflow.animate-sass
 ```
 
 ### Features
@@ -106,7 +106,7 @@ Finally in your markup, simply add the class `animated` to an element, along wit
 
 ```html
     <div class="animated fadeIn">
-    	<p>Watch me fade in!</p>
+      <p>Watch me fade in!</p>
     </div>
 ```
 

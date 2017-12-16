@@ -2,6 +2,10 @@
 
 All notable changes, updates, approved pull requests, etc will be noted here.
 
+### v0.9.0
+- add animation rubberBand
+- add animation swingReverse
+
 ### v0.8.2
 - Added CHANGELOG to better document changes
 - Bumped version to account for recent updates since last version.
