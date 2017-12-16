@@ -11,6 +11,11 @@
     "url": "git+https://github.com/creative-workflow/animate-sass.git"
   },
   "author": "Tom Gillard <tomgillar@gmail.com>",
+  "contributors": [
+    {
+      "name": "Tom Hanoldt"
+    }
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/creative-workflow/animate-sass/issues"
